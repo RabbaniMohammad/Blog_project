@@ -1,11 +1,40 @@
 section {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
 }
-.imgContainer img {
-  width: 200px;
-}
+
 .container {
-  border: 1px solid black;
+  border: 2px solid black;
   width: 400px;
+  border-radius: 10px;
+}
+
+img {
+  width: 100%;
+}
+img + div {
+  padding: 20px;
+}
+
+h3 + p:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+h3:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+h3 + p {
+  max-width: 100px;
+  background-color: pink;
+  padding: 5px 20px;
+  border-radius: 10px;
+}
+
+strong:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  opacity: 0.8;
 }
