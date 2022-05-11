@@ -1,0 +1,11 @@
+section {
+  display: flex;
+  justify-content: space-around;
+}
+.imgContainer img {
+  width: 200px;
+}
+.container {
+  border: 1px solid black;
+  width: 400px;
+}
