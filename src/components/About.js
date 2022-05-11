@@ -32,35 +32,35 @@ export const About = () => {
           <ul>
             <li>
               <strong>About:&nbsp;</strong>
-              <span>
+              <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Excepturi iste aliquid fugiat quasi asperiores, natus
                 consequatur! Aperiam consequatur ab inventore?
-              </span>
+              </p>
             </li>
             <li>
               <strong>Article:&nbsp;</strong>
-              <span>
+              <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Excepturi iste aliquid fugiat quasi asperiores, natus
                 consequatur! Aperiam consequatur ab inventore?
-              </span>
+              </p>
             </li>
             <li>
               <strong>Categories:&nbsp;</strong>
-              <span>
+              <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Excepturi iste aliquid fugiat quasi asperiores, natus
                 consequatur! Aperiam consequatur ab inventore?
-              </span>
+              </p>
             </li>
             <li>
               <strong>Subscribe:&nbsp;</strong>
-              <span>
+              <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Excepturi iste aliquid fugiat quasi asperiores, natus
                 consequatur! Aperiam consequatur ab inventore?
-              </span>
+              </p>
             </li>
           </ul>
         </div>
@@ -70,7 +70,10 @@ export const About = () => {
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente
           autem error aliquid voluptatum odit magnam molestiae magni porro
-          dolore eum. <strong>back and next</strong>
+          dolore eum.
+          <span>
+            <strong>back and next</strong>
+          </span>
         </p>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel vitae
