@@ -1,0 +1,23 @@
+.section_1 {
+  height: 50vh;
+  background: url("https://www.unboxingart.in/wp-content/uploads/2021/03/all-courses-header-1.png ");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.container_1 {
+  color: white;
+  max-width: 40%;
+  margin-left: 10%;
+  padding: 40px;
+}
+
+.cards {
+  margin: 20px;
+  border: none !important;
+}
+
+.cardImg {
+  border-radius: 20px !important;
+}

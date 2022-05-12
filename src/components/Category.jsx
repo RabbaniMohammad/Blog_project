@@ -1,4 +1,5 @@
 import "./styles/category.css";
+
 export default function Category() {
   return (
     <>
