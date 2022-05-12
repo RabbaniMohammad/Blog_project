@@ -47,7 +47,6 @@ function ArticlesList() {
           </p>
         </div>
       </section>
-      {/* https://www.unboxingart.in/wp-content/uploads/2021/09/Unboxing-Content-Writing-Blogging-Website-1-300x300.png */}
       <CardGroup>
         <Card className="cards">
           <Card.Img
